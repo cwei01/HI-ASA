@@ -6,12 +6,6 @@ This repo contains the code and data:
 
 In this paper, we novelly propose a hierarchical interactive network (HI-ASA) to model two-way interactions between two tasks appropriately, where the hierarchical interactions involve two steps: shallow-level interaction and deep-level interaction. First, we utilize cross-stitch mechanism to combine the different task-specific features selectively as the input to ensure proper two-way interactions. Second, the mutual information technique is applied to mutually constrain learning between two tasks in the output layer, thus the aspect input and the sentiment input is capable of encoding features of the other task via backpropagation. Extensive experiments on three real-world datasets demonstrate HI-ASA's superiority over baselines. 
 
-The framework is shown as following:
-
-<p>
-<img src="image/model.pdf" width="500" hight="400">
-</p>
-
 
 
 This framework consists of two components:
