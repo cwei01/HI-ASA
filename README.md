@@ -1,4 +1,4 @@
-#A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis [paper][https://arxiv.org/pdf/2208.11283.pdf]
+#A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis [https://arxiv.org/pdf/2208.11283.pdf]
 
 A PyTorch implementation of Joint Span-based Aspect-Sentiment Analysis
 
